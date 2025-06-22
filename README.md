@@ -6,6 +6,8 @@ This project involves creating a simple weather application for the web using HT
   * Weather conditions (e.g., sunny, rainy)
   * Humidity
   * Wind speed
+  * ![1000660409](https://github.com/user-attachments/assets/46b40710-a4ff-4fc8-b5b5-aa768b4420b9)
+
 
 
     
