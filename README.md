@@ -7,8 +7,6 @@ This project involves creating a simple weather application for the web using HT
   * Humidity
   * Wind speed
 
-![Screenshot 2024-10-05 225115](https://github.com/user-attachments/assets/94a67d2c-5042-450d-870b-f6381bbe9cb3)
-
 
     
 
